@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+lib/
+
+# Environment variables
+.env
+
+# Build artifacts
+out/
+artifacts/
+build/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Foundry specific
+cache/
+
+# Hardhat specific
+cache/
+typechain-types/
+
+# Next.js specific
+.next/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local development
+.env.local
